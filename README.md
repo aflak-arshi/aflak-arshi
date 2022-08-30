@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aflak Arshi</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [ADDA](https://www.tamm.abudhabi/)
+- 🔭 I’m currently working on [TAMM](https://www.tamm.abudhabi/)
 
 - 🌱 I’m currently learning **Next JS**
 
